@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180">
+  <rect width="180" height="180" fill="#f5efe6" rx="36"/>
+  <line x1="121.7" y1="90.0" x2="139.0" y2="90.0" stroke="#f59e0b" stroke-width="7.2" stroke-linecap="round"/><line x1="112.4" y1="112.4" x2="124.6" y2="124.6" stroke="#f59e0b" stroke-width="7.2" stroke-linecap="round"/><line x1="90.0" y1="121.7" x2="90.0" y2="139.0" stroke="#f59e0b" stroke-width="7.2" stroke-linecap="round"/><line x1="67.6" y1="112.4" x2="55.4" y2="124.6" stroke="#f59e0b" stroke-width="7.2" stroke-linecap="round"/><line x1="58.3" y1="90.0" x2="41.0" y2="90.0" stroke="#f59e0b" stroke-width="7.2" stroke-linecap="round"/><line x1="67.6" y1="67.6" x2="55.4" y2="55.4" stroke="#f59e0b" stroke-width="7.2" stroke-linecap="round"/><line x1="90.0" y1="58.3" x2="90.0" y2="41.0" stroke="#f59e0b" stroke-width="7.2" stroke-linecap="round"/><line x1="112.4" y1="67.6" x2="124.6" y2="55.4" stroke="#f59e0b" stroke-width="7.2" stroke-linecap="round"/>
+  <circle cx="90" cy="90" r="25.919999999999998" fill="#d97706"/>
+  <text x="90" y="147.6" text-anchor="middle" font-family="'General Sans', Arial, sans-serif" font-weight="700" font-size="21.599999999999998" fill="#78350f">SolarDim</text>
+</svg>
